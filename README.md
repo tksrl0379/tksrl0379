@@ -1,9 +1,13 @@
 
 
 ###  Hi there 👋
-#### I'm currently studying iOS app development 🙇🏻‍♂️
+#### I'm currently learning iOS app development 🙇🏻‍♂️
 ![header](https://capsule-render.vercel.app/api?type=soft&color=A38A0A&height=50&section=header&text=iOS%20Developer&fontSize=30&animation=fadeIn&fontAlign=14.5&textBg=false&fontAlignY=55&fontColor=ffffff)
 [![tksrl0379 github stats](https://github-readme-stats.vercel.app/api?username=tksrl0379&show_icons=true&bg_color=F0CD1D&text_color=ffffff&icon_color=877208&title_color=574905&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![naverblog](https://img.shields.io/badge/Naver_Blog-badge?style=flat&logo=Blogger&logoColor=white)](http://blog.naver.com/tksrl0379)
+
+
 <!--
 **tksrl0379/tksrl0379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
