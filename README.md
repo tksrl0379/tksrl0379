@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=A38A0A&height=50&section=header&text=iOS%20Developer&fontSize=30&animation=fadeIn&fontAlign=15&textBg=false&fontAlignY=55&fontColor=ffffff)
+[![tksrl0379 github stats](https://github-readme-stats.vercel.app/api?username=tksrl0379&show_icons=true&bg_color=F0CD1D&text_color=ffffff&icon_color=806C08&title_color=403604)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tksrl0379/tksrl0379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
