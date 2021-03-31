@@ -7,7 +7,7 @@
 ### Education 👨🏻‍🎓
 | Date        | Contents |
 | --------    | -------- |
-| 15.02 - 21.02 | Korea Polytechnique University (CE) |
+| 15.02 - 21.02 | Korea Polytechnic University (CE) |
 | 20.07 - 20.12 | NAVER BoostCamp (iOS) | 
 
 ----
