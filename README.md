@@ -1,6 +1,6 @@
 ### About Me 👋
 
-- I am a developer whose goal is to continue to grow.
+- iOS Developer
 
 ---- 
 
