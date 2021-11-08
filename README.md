@@ -2,23 +2,6 @@
 
 - iOS Developer
 
----- 
-
-### Education 👨🏻‍🎓
-| Date        | Contents |
-| --------    | -------- |
-| 15.02 - 21.02 | Korea Polytechnic University (CE) |
-| 20.07 - 20.12 | NAVER BoostCamp (iOS) | 
-
-----
-
-## Career 🧑🏻‍💻
-| Date        | Company |
-| --------    | -------- |
-| 21.01 - 21.02 | NAVER WEBTOON Corp. (Intern)  |
-| 21.04 - now | NAVER WEBTOON Corp. (iOS Dev) |
-
-[![naverblog](https://img.shields.io/badge/Naver_Blog-badge?style=flat&logo=Blogger&logoColor=white)](http://blog.naver.com/tksrl0379)
 
 <!--
 **tksrl0379/tksrl0379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
